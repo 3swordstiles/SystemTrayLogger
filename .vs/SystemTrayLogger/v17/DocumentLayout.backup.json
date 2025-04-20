@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apps\\repos\\SystemTrayLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|D:\\Apps\\repos\\SystemTrayLogger\\systemhealthmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|solutionrelative:systemhealthmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|d:\\apps\\repos\\systemtraylogger\\systemhealthmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|solutionrelative:systemhealthmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|D:\\Apps\\repos\\SystemTrayLogger\\metricwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|solutionrelative:metricwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|D:\\Apps\\repos\\SystemTrayLogger\\systemhealthmonitor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|solutionrelative:systemhealthmonitor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|D:\\Apps\\repos\\SystemTrayLogger\\metricwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADB6E3-8C8C-4FF6-AA4F-A36883DCC4D2}|SystemTrayLogger.csproj|solutionrelative:metricwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemHealthMonitor.cs",
+              "DocumentMoniker": "D:\\Apps\\repos\\SystemTrayLogger\\SystemHealthMonitor.cs",
+              "RelativeDocumentMoniker": "SystemHealthMonitor.cs",
+              "ToolTip": "D:\\Apps\\repos\\SystemTrayLogger\\SystemHealthMonitor.cs",
+              "RelativeToolTip": "SystemHealthMonitor.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAiwAwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:33:51.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetricWindow.cs",
+              "DocumentMoniker": "D:\\Apps\\repos\\SystemTrayLogger\\MetricWindow.cs",
+              "RelativeDocumentMoniker": "MetricWindow.cs",
+              "ToolTip": "D:\\Apps\\repos\\SystemTrayLogger\\MetricWindow.cs",
+              "RelativeToolTip": "MetricWindow.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:45:26.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemHealthMonitor.cs [Design]",
+              "DocumentMoniker": "D:\\Apps\\repos\\SystemTrayLogger\\SystemHealthMonitor.cs",
+              "RelativeDocumentMoniker": "SystemHealthMonitor.cs",
+              "ToolTip": "D:\\Apps\\repos\\SystemTrayLogger\\SystemHealthMonitor.cs [Design]",
+              "RelativeToolTip": "SystemHealthMonitor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:32:32.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemHealthMonitor.Designer.cs",
+              "DocumentMoniker": "D:\\Apps\\repos\\SystemTrayLogger\\SystemHealthMonitor.Designer.cs",
+              "RelativeDocumentMoniker": "SystemHealthMonitor.Designer.cs",
+              "ToolTip": "D:\\Apps\\repos\\SystemTrayLogger\\SystemHealthMonitor.Designer.cs",
+              "RelativeToolTip": "SystemHealthMonitor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:37:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MetricWindow.Designer.cs",
+              "DocumentMoniker": "D:\\Apps\\repos\\SystemTrayLogger\\MetricWindow.Designer.cs",
+              "RelativeDocumentMoniker": "MetricWindow.Designer.cs",
+              "ToolTip": "D:\\Apps\\repos\\SystemTrayLogger\\MetricWindow.Designer.cs",
+              "RelativeToolTip": "MetricWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:57:18.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
